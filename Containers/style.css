@@ -1,0 +1,38 @@
+main{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #a874d2;
+    border:3px solid  #a874d2;
+    border-radius: 25px;
+}
+body{
+    background-color: grey;
+}
+h1,h2,h3{
+    color: ghostwhite;
+    text-shadow: black 3px 1px;
+}
+h1{
+    font-size: 40px;
+}
+h2{
+    font-size:35px;
+}
+h3{
+    font-size: 30px;
+}
+.cont{
+    border:3px solid  white;
+    border-radius: 10px;
+    box-shadow: black 3px 5px;
+}
+p{
+    color: ghostwhite;
+    font-size: 22px;
+    display: flex;
+    flex-direction: row;
+    padding-left:60px;
+    padding-right:60px;
+    text-shadow: black 2px 1px;
+}
